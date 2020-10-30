@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# production
+/out
+/out_publish/
+/out_functions/
+/build
+/.next
+/.next-export
+
+# misc
+.DS_Store
+npm-debug.log*
