@@ -13,7 +13,7 @@ import Faq from "../components/HomeThree/Faq";
 import News from "../components/Common/News";
 import Footer from "../components/Layouts/Footer";
 
-class Index3 extends Component {
+class Index extends Component {
   render() {
     return (
       <React.Fragment>
@@ -35,4 +35,4 @@ class Index3 extends Component {
   }
 }
 
-export default Index3;
+export default Index;
